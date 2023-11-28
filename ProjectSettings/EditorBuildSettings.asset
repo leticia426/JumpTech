@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Leticia/Scenes/tela menu principal.unity
+    guid: fbaccf32e8ce9634380d20a97e8c5605
+  - enabled: 1
+    path: Assets/Leticia/Scenes/pog Backup.unity
+    guid: c41914d80c102e0409c34af18371aa07
+  - enabled: 1
+    path: Assets/Leticia/Scenes/portugues.unity
+    guid: aecc6d1857082944d885f7579f333996
+  - enabled: 1
+    path: Assets/Leticia/Scenes/Contos.unity
+    guid: ead1d48b6f9b2e24fb0f8ff22be22d48
+  - enabled: 1
+    path: Assets/Leticia/Scenes/biologia.unity
+    guid: fcd1b07d67af64e4289af75895fdc5b6
+  - enabled: 1
+    path: Assets/Leticia/Scenes/Quimica.unity
+    guid: 34930c9e0a084a54fa8e5cc0dbaa9556
+  - enabled: 1
+    path: Assets/Leticia/Scenes/Guerra 2.unity
+    guid: 518853e0921772647bf9d18ea22d247e
+  - enabled: 1
+    path: Assets/Leticia/Scenes/fase filosofia.unity
+    guid: 1ed28ecb0ae79b146ab0ee017e9a8fc8
+  - enabled: 1
+    path: Assets/Leticia/Scenes/fase fisica.unity
+    guid: 1fed66eee736f39459412e167b9b43ff
+  - enabled: 1
+    path: Assets/Leticia/Scenes/Creditos.unity
+    guid: 2a48c1739a9812b4b81772d62691baf4
+  m_configObjects: {}
